@@ -1,0 +1,40 @@
+{
+    "what_we_do" : [
+        {
+            "id" : 1,
+            "title" : "Custom Web Applications",
+            "description" : "From dynamic web apps to sophisticated online platforms, we design and develop tailor-made web applications that cater to your unique business needs. Our solutions are built with the latest technologies, ensuring optimal performance, security, and scalability.",
+            "isFeatured" : true
+        },
+        {
+            "id" : 2,
+            "title" : "Website Design & Development",
+            "description" : "Your website is the face of your business online. Our team of expert designers and developers craft stunning, user-friendly websites that not only look great but also function seamlessly across all devices. We focus on creating engaging experiences that drive user interaction and conversion.",
+            "isFeatured" : true
+        },
+        {
+            "id" : 3,
+            "title" : "E-Commerce Solutions",
+            "description" : "Elevate your online store with our comprehensive e-commerce solutions. We create robust, secure, and scalable e-commerce platforms that provide a seamless shopping experience for your customers, helping you grow your business effortlessly.",
+            "isFeatured" : true
+        },
+        {
+            "id" : 4,
+            "title" : "Mobile App Development",
+            "description" : "Expand your reach with our mobile app development services. Whether you need an iOS app, an Android app, or a cross-platform solution, we have the expertise to deliver high-quality mobile applications that engage and retain users.",
+            "isFeatured" : true
+        },
+        {
+            "id" : 5,
+            "title" : "Digital Strategy & Consulting",
+            "description" : "Navigating the digital landscape can be complex. Our digital strategy and consulting services offer you the guidance and insights needed to make informed decisions, optimize your digital presence, and achieve your business goals.",
+            "isFeatured" : true
+        },
+        {
+            "id" : 6,
+            "title" : "Creative Design",
+            "description" : "Our creative design services bring your brand to life with visually stunning and impactful designs. From logos to full brand identities, we craft designs that not only look exceptional but also resonate with your audience, helping you build a strong, cohesive brand presence across all platforms.",
+            "isFeatured" : true
+        }
+    ]
+}
